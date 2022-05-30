@@ -54,12 +54,12 @@ The table also indicates that Females comprise ~40% of the workforce.
 
 Q-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employee
 
-Apparently, only 10% of the retiring employees are more than 10 years old with the company while 44% of the population is around for 5+ years.
-Assuming the learning curve of 3-4 years, it can be said that the retiring population will be able to mentor the newer employees
+Apparently, only 10% of the retiring employees are more than 10 years old with the company while 44% of the population have been around for 5+ years.
+Assuming the learning curve of 3-5 years, it can be said that the retiring population will be able to mentor the newer employees.
 
 ![image](https://user-images.githubusercontent.com/102870991/170931444-2f402ffb-82cd-48ce-9348-0861bace02c6.png)
 
-We need to train people on technical skills as most of the retireing employees are engineers and technical resources. Hopefully the skills and knowledge base can be created before the actual Tsunami hits. The identified base of retriring and mentor eligible population should help.
+We need to train people on technical skills as most of the retiring employees are engineers and technical resources. Hopefully the skills and knowledge base can be created before the actual Tsunami hits. The identified base of retiring and mentor eligible population should help.
 
 
 Thanks & Regards.
